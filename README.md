@@ -1,3 +1,3 @@
 # BFS
 # Shortest path Algo
-# Maze approach used 
+# Maze game approach used 
